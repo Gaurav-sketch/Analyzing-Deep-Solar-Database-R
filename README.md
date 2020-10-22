@@ -1,1 +1,2 @@
 Supervised Classification methods
+Analyzed solar installation data collected from satellite images. Used supervised classification methods/Machine learning algorithms like Logistic Regression, Decision Trees, Random Forests, Boosting, Bagging and SVM to predict the solar system coverage of a tile given the collection of predictive features. Applied various cross-validation algorithms and computed classifier performance measures to identify the best classifier. Fine-tuned the arguments of classifiers to maximize accuracy.
